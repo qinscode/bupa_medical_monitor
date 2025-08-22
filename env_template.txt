@@ -1,0 +1,29 @@
+# 邮件配置模板 - Gmail 设置
+# 请复制此文件为 .env 并填写真实信息
+
+# Gmail 发送方配置
+GMAIL_USER=your_email@gmail.com
+GMAIL_APP_PASSWORD=your_app_specific_password
+
+# 接收方邮箱
+NOTIFICATION_EMAIL=recipient@gmail.com
+
+# 可选：自定义SMTP设置 (Gmail 默认值)
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+
+# 监控设置
+MONITOR_LOCATIONS=Perth,Booragoon,Fremantle
+CUTOFF_DATE=2025-08-29
+
+# 监控频率 (分钟)
+CHECK_INTERVAL=30
+
+# 说明：
+# 1. Gmail App Password 获取方法：
+#    - 打开 Google 账户设置
+#    - 安全性 -> 两步验证 -> 应用专用密码
+#    - 生成新的应用专用密码
+# 
+# 2. 将此文件重命名为 .env 并填写真实信息
+# 3. 确保 .env 文件不要提交到版本控制系统 

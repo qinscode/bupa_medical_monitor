@@ -1,0 +1,25 @@
+location_id,location_name,full_address,distance,availability,coordinates,center_type,has_available_slots,extracted_time
+193,Perth,"Perth - Bupa Centre
+Level 3,
+2 Mill Street,
+Perth",4 km,"Thursday 11/09/2025
+12:45 PM","-31.9548200,115.8526330",Bupa Centre,True,2025-08-22 12:31:32
+185,Booragoon,"Booragoon Medical Centre
+508 Marmion Street,
+Booragoon WA 6154",7 km,No available slot,"-32.0394809,115.8226591",Regional Medical Centre,False,2025-08-22 12:31:32
+209,Fremantle,"Ellen Health
+7/195 Hampton Road,
+Fremantle WA 6160",12 km,"Friday 29/08/2025
+10:15 AM","-32.0708964,115.7577617",Regional Medical Centre,True,2025-08-22 12:31:32
+154,Bunbury,"Brecken Health Bunbury
+12-16 Vasse Street,
+Bunbury WA 6230",154 km,"Wednesday 27/08/2025
+08:45 AM","-33.3569778,115.6380456",Regional Medical Centre,True,2025-08-22 12:31:32
+165,Geraldton,"233 Lester Ave,
+Geraldton,
+WA 6530",375 km,"Wednesday 27/08/2025
+10:00 AM","-28.7770341,114.6054276",Regional Medical Centre,True,2025-08-22 12:31:32
+180,Albany,"Brecken Health Albany
+229 Middleton Road,
+Albany, WA 6330",389 km,"Monday 25/08/2025
+08:30 AM","-35.0179528,117.892231",Regional Medical Centre,True,2025-08-22 12:31:32

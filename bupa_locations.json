@@ -1,0 +1,68 @@
+[
+  {
+    "location_id": "193",
+    "location_name": "Perth",
+    "full_address": "Perth - Bupa Centre\nLevel 3,\n2 Mill Street,\nPerth",
+    "distance": "4 km",
+    "availability": "Thursday 11/09/2025\n12:45 PM",
+    "coordinates": "-31.9548200,115.8526330",
+    "center_type": "Bupa Centre",
+    "has_available_slots": true,
+    "extracted_time": "2025-08-22 12:31:32"
+  },
+  {
+    "location_id": "185",
+    "location_name": "Booragoon",
+    "full_address": "Booragoon Medical Centre\n508 Marmion Street,\nBooragoon WA 6154",
+    "distance": "7 km",
+    "availability": "No available slot",
+    "coordinates": "-32.0394809,115.8226591",
+    "center_type": "Regional Medical Centre",
+    "has_available_slots": false,
+    "extracted_time": "2025-08-22 12:31:32"
+  },
+  {
+    "location_id": "209",
+    "location_name": "Fremantle",
+    "full_address": "Ellen Health\n7/195 Hampton Road,\nFremantle WA 6160",
+    "distance": "12 km",
+    "availability": "Friday 29/08/2025\n10:15 AM",
+    "coordinates": "-32.0708964,115.7577617",
+    "center_type": "Regional Medical Centre",
+    "has_available_slots": true,
+    "extracted_time": "2025-08-22 12:31:32"
+  },
+  {
+    "location_id": "154",
+    "location_name": "Bunbury",
+    "full_address": "Brecken Health Bunbury\n12-16 Vasse Street,\nBunbury WA 6230",
+    "distance": "154 km",
+    "availability": "Wednesday 27/08/2025\n08:45 AM",
+    "coordinates": "-33.3569778,115.6380456",
+    "center_type": "Regional Medical Centre",
+    "has_available_slots": true,
+    "extracted_time": "2025-08-22 12:31:32"
+  },
+  {
+    "location_id": "165",
+    "location_name": "Geraldton",
+    "full_address": "233 Lester Ave,\nGeraldton,\nWA 6530",
+    "distance": "375 km",
+    "availability": "Wednesday 27/08/2025\n10:00 AM",
+    "coordinates": "-28.7770341,114.6054276",
+    "center_type": "Regional Medical Centre",
+    "has_available_slots": true,
+    "extracted_time": "2025-08-22 12:31:32"
+  },
+  {
+    "location_id": "180",
+    "location_name": "Albany",
+    "full_address": "Brecken Health Albany\n229 Middleton Road,\nAlbany, WA 6330",
+    "distance": "389 km",
+    "availability": "Monday 25/08/2025\n08:30 AM",
+    "coordinates": "-35.0179528,117.892231",
+    "center_type": "Regional Medical Centre",
+    "has_available_slots": true,
+    "extracted_time": "2025-08-22 12:31:32"
+  }
+]
